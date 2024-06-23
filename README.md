@@ -101,13 +101,12 @@ Los resultados que se obtienen son los siguientes:
 ## Aplicación de LOST a un dataset propio
 Para ejecutar las pruebas en el dataset que utilizamos para los experimentos y generar las imagenes con los resultados de la localización con LOST, ejecutar el siguiente comando:
 
-Las imágenes de prueba se encuentran en `examples/unsa`
 
 ```
 python3 run_test.py examples/unsa
 ```
 
-Las salidas aparecerán en `output/visualizations/LOST-vit-small16_k`
+Las imágenes de prueba se encuentran en `examples/unsa` y las salidas aparecerán en `output/visualizations/LOST-vit-small16_k`
 
 ## License
 LOST is released under the [Apache 2.0 license](./LICENSE).
